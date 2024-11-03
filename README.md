@@ -1,4 +1,4 @@
-<imagen origen="portada.png">
+<img src="portada.png">
 
 
 - 👋 Hi, I’m ARACELI
