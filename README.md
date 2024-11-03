@@ -1,3 +1,6 @@
+<imagen origen="portada.png">
+
+
 - 👋 Hi, I’m ARACELI
 - 👀 I’m interested in IA
 
